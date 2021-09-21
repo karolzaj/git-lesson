@@ -1,0 +1,6 @@
+TODO LIST:
+- Create first repository (Done)
+- Add file to repo (Done)
+- Check out git history (Done)
+- Pushing changes into remote repository (Done)
+- Check off tasks
